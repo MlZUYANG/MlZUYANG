@@ -10,7 +10,7 @@
 
 <p align="right">I LOVE MIZUYANG!</br>and astralfox, embog, and bapweaver.</br>also mizuki x mostly anyone.</p> 
 
-<p>I love Lucio #1 But of course I love<br />Mizuki, Wuyang, Juno, Emre, D.va,<br />Illari, and Anra.</p>
+<p>I love Lucio #1 But of course I love<br />Mizuki, Wuyang, Juno, Emre, D.va,<br />Lifeweaver, Illari, and Anra.</p>
 
 ![](https://komarev.com/ghpvc/?username=MlZUYANG&color=fffab8&label=Turtles)
 
