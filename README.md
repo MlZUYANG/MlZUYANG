@@ -12,7 +12,9 @@
 
 <p align="middle">I LOVE MIZUYANG!</br>and astralfox, embog, and bapweaver.</br>also mizuki x mostly anyone.</p> 
 
-![](https://komarev.com/ghpvc/?username=MlZUYANG&color=fffab8&label=Turtles)
+<h4 align="center" 
+  <a href="https://komarev.com/ghpvc/?username=MlZUYANG&color=fffab8&label=Turtles" />
+</h4>
 
 <p align="center">
   <img src="https://files.catbox.moe/r8x12p.png" />
